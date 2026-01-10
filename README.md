@@ -1,6 +1,6 @@
 # 🚗 Motor Insurance Policy Calculator
 
-A specialized C-based decision engine designed for insurance providers to automate the determination of policy types, premium rates, and claim excesses.
+A specialized C and Python-based decision engine designed for insurance providers to automate the determination of policy types, premium rates, and claim excesses.
 
 ---
 
